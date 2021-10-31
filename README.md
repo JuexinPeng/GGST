@@ -1,3 +1,3 @@
 # GGST
-***Guilty Gear Strive* is a video game. **
-This is just a folder to practice using github desktop!
+*Guilty Gear Strive* is a video game.<br>
+**This is just a folder to practice using github desktop!**<br>
